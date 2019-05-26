@@ -1,7 +1,13 @@
 <metadata>
     <version>1106</version>
     <dependencies>
+        <dependency>profile-bda.plone.yafowil_autoform_example:set_lang</dependency>
+
         <dependency>profile-plone.app.contenttypes:default</dependency>
         <dependency>profile-yafowil.plone:autoform</dependency>
+
+        <dependency>profile-plone.app.multilingual:default</dependency>
+        <!-- <dependency>profile-plone.app.multilingualindexes:default</dependency> -->
+
     </dependencies>
 </metadata>

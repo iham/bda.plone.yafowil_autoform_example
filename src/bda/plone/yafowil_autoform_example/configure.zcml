@@ -20,4 +20,12 @@
     provides="Products.GenericSetup.interfaces.EXTENSION"
   />
 
+  <gs:registerProfile
+    name="set_lang"
+    title="YAFOWIL autoform example multilingual"
+    directory="profiles/set_lang"
+    description="Example content type using yafowil.plone autoforms"
+    provides="Products.GenericSetup.interfaces.EXTENSION"
+  />
+
 </configure>
