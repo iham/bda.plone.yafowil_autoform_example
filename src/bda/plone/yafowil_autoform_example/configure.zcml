@@ -7,9 +7,9 @@
 
   <plone:behavior
     title="YAFOWIL Autoform Example Behavior"
+    name="yafowil.example"
     description="Behavior for testing yafowil.plone.autoform"
     provides=".behaviors.IYafowilAutoformExampleBehavior"
-    for="plone.dexterity.interfaces.IDexterityContent"
   />
 
   <gs:registerProfile

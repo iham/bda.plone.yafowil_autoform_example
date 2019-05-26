@@ -1,6 +1,7 @@
 <metadata>
- <version>1106</version>
- <dependencies>
-  <dependency>profile-yafowil.plone:autoform</dependency>
- </dependencies>
+    <version>1106</version>
+    <dependencies>
+        <dependency>profile-plone.app.contenttypes:default</dependency>
+        <dependency>profile-yafowil.plone:autoform</dependency>
+    </dependencies>
 </metadata>
